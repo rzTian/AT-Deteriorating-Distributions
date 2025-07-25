@@ -2,8 +2,8 @@
 
 
 ## Overview
-This repository contains the code implementation for the paper [Adversarial Training May Induce Deteriorating Distributions](https://openreview.net/forum?id=8ixaK3sMhv)
-The key takeaway message is that
+This repository contains the code implementation for the paper [Adversarial Training May Induce Deteriorating Distributions](https://openreview.net/forum?id=8ixaK3sMhv) .
+Key takeaways:
 - We discover that adversarial training (AT) may induce deteriorating distributions.
 - We empirically observed a correlation between the deteriorating behavior of the induced distributions and robust overfitting.
 - Our findings highlight the critical role played by the perturbation operator in AT.
