@@ -10,7 +10,7 @@ Key takeaways:
 
 ## Reproducing the Induced Distribution Experiments (IDEs)
 
-To reproduce the experiments on the CIFAR-10 dataset, please follow these steps::
+To reproduce the experiments on the CIFAR-10 dataset, please follow these steps:
 - Step 1: Perform adversarial training. Run
   ```
    python adv_train_cifar.py    --train_mode  'adv_train'  --dataset 'cifar10'
