@@ -1,5 +1,5 @@
 # Adversarial Training May Induce Deteriorating Distributions
--------
+
 
 ## Overview
 This repository contains the code implementation for the paper [Adversarial Training May Induce Deteriorating Distributions](https://openreview.net/forum?id=8ixaK3sMhv)
